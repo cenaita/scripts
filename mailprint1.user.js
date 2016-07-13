@@ -5,7 +5,7 @@
 // @author       Nuno Xavier (script adaptado de outros scripts disponiveis na net)
 // @grant        none
 // @include         https://mail.sef.pt/owa/*
-// @downloadURL    https://cld.pt/dl/download/ab745fbc-0acb-49d2-901a-75b1d8ef1e62/SEFmailprint1.user.js
+// @downloadURL    
 // @icon           http://gmscripts.locusprime.net/script_icons/bookmarks.png
 // ==/UserScript==
 
